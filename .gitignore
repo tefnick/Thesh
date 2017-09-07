@@ -1,0 +1,8 @@
+*.o
+*.log
+*.m4
+*.status
+*.ac
+*.am
+*.in
+*.tar.gz
