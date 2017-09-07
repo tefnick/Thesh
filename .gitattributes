@@ -6,4 +6,4 @@
 *.am
 *.in
 *.tar.gz
-./* linguist-vendored
+* linguist-vendored
