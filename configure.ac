@@ -1,0 +1,6 @@
+AC_INIT(thesh.c)
+AM_INIT_AUTOMAKE(thesh,1.0)
+AC_PROG_CC
+AC_PROG_INSTALL
+AC_OUTPUT(Makefile)
+
